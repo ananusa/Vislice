@@ -5,3 +5,5 @@ Vislice so preprosta igra, kjer ora igralec uganiti besedo, ki se jo izmisli ra�
 ## Avtorji
 
 * Matjaž Zaveršnik
+* Matija Pretnar
+* Janez Novak 
